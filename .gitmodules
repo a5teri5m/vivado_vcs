@@ -1,0 +1,6 @@
+[submodule "submodule/test_ip"]
+	path = submodule/test_ip
+	url = https://github.com/a5teri5m/vivado_vcs_test_ip.git
+[submodule "submodule/test_hdl"]
+	path = submodule/test_hdl
+	url = https://github.com/a5teri5m/vivado_vcs_test_hdl.git

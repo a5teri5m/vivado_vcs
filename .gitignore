@@ -1,0 +1,8 @@
+
+config.tcl
+run_vivado.sh
+project
+synth.log
+impl.log
+run_sdk.sh
+.*.swp
